@@ -7,6 +7,8 @@ Features | Index | Job Title | Salary Estimate | Job Description |	Rating	| Comp
 | -------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |------- | ------- |
 Data Type | Integer  | String | String | String |	Float	| String | String | String	| String | Integer | String |	String	| String | String |
 
+* No duplicates existed
+
 ### Objectives
 * Practice data-cleaning techniques
 * Find the best jobs by salary and company rating
