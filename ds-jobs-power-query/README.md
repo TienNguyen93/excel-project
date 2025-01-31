@@ -1,4 +1,6 @@
-## Power Query project
+## Data Careers Insights
+
+### [Dashboard (PDF)](https://github.com/TienNguyen93/excel-project/blob/main/ds-jobs-power-query/jobs-report.pdf)
 
 ### Dataset Description
 This dataset found through Mo Chen's exercise, containing 672 instances with 14 attributes,
