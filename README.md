@@ -1,4 +1,4 @@
-## Excel Project
+## Excel Projects
 A collection of Excel pet projects for practicing purpose
 
 ### Tools used: 
