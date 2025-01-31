@@ -1,5 +1,7 @@
-# Excel Project
+## Excel Project
+A collection of Excel pet projects for practicing purpose
 
-## A collection of Excel pet projects for practicing purpose
-
-## Tools used: `Excel`, `Power Query`, `Power BI`
+### Tools used: 
+* Excel
+* Power Query
+* Power BI
