@@ -1,4 +1,2 @@
-## Excel Projects
-A collection of Excel pet projects for practicing purpose
-
-### Tools used: `Excel`, `Power Query`, `Power BI`
+## Data-related job employment analysis using Excel
+Detail README can be found in `ds-jobs-power-query` folder
